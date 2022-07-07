@@ -9,6 +9,30 @@ Hi there 👋
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2015%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
+🌆 Daytime    133 commits    █████████░░░░░░░░░░░░░░░░   35.95% 
+🌃 Evening    191 commits    █████████████░░░░░░░░░░░░   51.62% 
+🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.84%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
