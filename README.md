@@ -1,2 +1,6 @@
-<img alt="MatthieuLeboeuf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthieuleboeuf&show_icons=true&hide_border=true&theme=tokyonight" />
-<img alt="MatthieuLeboeuf's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieuleboeuf&show_icons=true&hide_border=true&theme=tokyonight" />
+Hi there 👋
+**I'm Matthieu, I learn every day** 🔭
+
+- 🌱 I’m currently learning **Go and C++ language**
+- 💬 Ask me about **Go, PHP, JavaScript, Docker and Python**
+- 📫 My website: https://matthieul.dev
