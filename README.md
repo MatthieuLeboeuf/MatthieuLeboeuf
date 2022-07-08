@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 **I'm Matthieu, I learn every day** 🔭
 
 - 🌱 I’m currently learning **Go and C++ language**
