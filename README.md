@@ -9,7 +9,7 @@
 
 ## 📊 Me in statistics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%201%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%203%20mins-blue)
 
 **I'm a Night 🦉** 
 
