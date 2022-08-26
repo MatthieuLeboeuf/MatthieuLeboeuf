@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 **I'm Matthieu**
 
 - 🌱 I’m currently learning **Rust and C language**
