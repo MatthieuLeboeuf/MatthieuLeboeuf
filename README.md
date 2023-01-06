@@ -1,7 +1,7 @@
 ## Hi 👋
 **I'm Matthieu**
 
-- 🌱 I’m currently learning **Rust and C language**
+- 🌱 I’m currently learning **Rust and C++ language**
 - 💬 Ask me about **Go, PHP, JavaScript, Docker and Python**
 - 📫 My website: https://matthieul.dev
 
