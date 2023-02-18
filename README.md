@@ -1,38 +1,16 @@
-## Hi 👋
-**I'm Matthieu**
+## Hi, I'm Matthieu 👋
 
-- 🌱 I’m currently learning **Rust and C++ language**
-- 💬 Ask me about **Go, PHP, JavaScript, Docker and Python**
+- 🌱 I’m learning code by myself and I'm sharing some of my projects on GitHub or [GitLab](https://gitlab.com/MatthieuLeboeuf)
 - 📫 My website: https://matthieul.dev
 
--------
+---
 
-## 📊 Me in statistics
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2028%20mins-blue)
+<h3 align="center">I'm using & Learning</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,golang,java,gradle,html,css,js,ts,nodejs,electron,php,py,mysql,c,cpp,arduino&perline=20" />
+</p>
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
-🌆 Daytime    88 commits     ████████░░░░░░░░░░░░░░░░░   34.65% 
-🌃 Evening    129 commits    ████████████░░░░░░░░░░░░░   50.79% 
-🌙 Night      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84%
-
-```
-
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
-PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Twig                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
-
-```
-
-
-
-<!--END_SECTION:waka-->
+<h3 align="center">Software and tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,vscode,idea,git,github,gitlab,cloudflare,nginx,githubactions,jenkins" />
+</p>
